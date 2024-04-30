@@ -11,10 +11,10 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 
 ## 🚩 Table of Contents
 
-- [Design Pattern](#-design-pattern)
-  - [Creational Design Pattern](#-creational-design-pattern)
-- [Data Structure](#-data-structure)
-- [Algorithm](#-algorithm)
+- [Design Pattern](#design-pattern)
+  - [Creational Design Pattern](#creational-design-pattern)
+- [Data Structure](#data-structure)
+- [Algorithm](#algorithm)
 
 
 ## 🏁Design-Pattern
