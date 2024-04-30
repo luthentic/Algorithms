@@ -30,10 +30,10 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 ### Creational Design Pattern
 
 
-## ⭐ Data Structure
+## ⭐Data Structure
 
-## 🤖 Algorithm
+## 🤖Algorithm
 
 
-## 📜 References
+## 📜References
 
