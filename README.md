@@ -22,10 +22,6 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Creational Design Pattern
 
