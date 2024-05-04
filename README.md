@@ -13,6 +13,8 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 
 - [Design Pattern](#design-pattern)
   - [Creational Design Pattern](#creational-design-pattern)
+  - [Structural design pattern](#structural-design-pattern)
+  - [Behavioral design pattern](#behavioral-design-pattern)
 - [Data Structure](#data-structure)
 - [Algorithm](#algorithm)
 
