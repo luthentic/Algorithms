@@ -11,6 +11,8 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 
 ## 🚩 Table of Contents
 
+- [Time Complexity](#time-complexity)
+- [Space Complexity](#space-complexity)
 - [Design Pattern](#design-pattern)
   - [Creational Design Pattern](#creational-design-pattern)
   - [Structural design pattern](#structural-design-pattern)
