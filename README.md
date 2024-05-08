@@ -36,7 +36,7 @@ My personal on going study project about Data-Structures, Algorithms, and Design
       3. Mediator design pattern
       4. Command design pattern
       5. Template Method design pattern
-   6. [Data Structure](#data-structure)
+4. [Data Structure](#data-structure)
       1. [Searching](#)
          1. Binary Search
          2. Linear Search
@@ -70,7 +70,8 @@ My personal on going study project about Data-Structures, Algorithms, and Design
          10. Johnson's Algorithm
          11. Kosaraju's Algorithm
          12. Tarjan's Algorithm
-   8. [Algorithm](#algorithm)
+             
+5. [Algorithm](#algorithm)
   
 ***
 
