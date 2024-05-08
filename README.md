@@ -1,4 +1,4 @@
-
+![image](https://github.com/luthentic/DesignPattern-DataStructures-Algorithms/assets/33567830/647deb3b-7f46-4a8a-bbf4-744bf30cb3a5)
 
 
 ## 🚀 Introduction
@@ -37,13 +37,28 @@ My personal on going study project about Data-Structures, Algorithms, and Design
       4. Command design pattern
       5. Template Method design pattern
 4. [Data Structure](#data-structure)
-      1. [Searching](#)
+    1. [Arrays](arrays)
+    2. [Linked Lists](linked-lists)
+    3. [Stacks](stacks)
+    4. [Queues](queues)
+    5. [Trees](trees)
+    6. [Sets](sets)
+    7. [Dictionaries](dictionaries)
+    8. [Graphs](graphs)
+    9. [Hash Tables](hash-tables)
+    10. [Heap](Heap)
+    11. [Priority Queue](priority-queue)
+    12. [Trie](trie)
+    13. [Skip Lists](skip-lists) 
+             
+5. [Algorithm](#algorithm)
+    1. [Searching](#)
          1. Binary Search
          2. Linear Search
          3. Depth First Search
          4. Breadth First Search
          5. Z Algorithm
-      3. Sorting
+    2. Sorting
          1. Insertion Sort
          2. Heap Sort
          3. Selection Sort
@@ -57,7 +72,7 @@ My personal on going study project about Data-Structures, Algorithms, and Design
          11. Comb Sort
          12. Pigeonhole Sort
          13. Cycle Sort
-      3. Graphs
+    3. Graphs
          1. Kruskal's Algorithm
          2. Dijkstra's Algorithm
          3. Bellman Ford Algorithm
@@ -70,8 +85,28 @@ My personal on going study project about Data-Structures, Algorithms, and Design
          10. Johnson's Algorithm
          11. Kosaraju's Algorithm
          12. Tarjan's Algorithm
-             
-5. [Algorithm](#algorithm)
+    4. Arrays
+          1. Kadane's Algorithm
+          2. Floyd's Cycle Detection Algorithm
+          3. Knuth-Morris-Pratt Algorithm (KMP)
+          4. Boyer - More Majority Vote Algorithm
+    5. Trees
+          1. Binary Trees
+          2. Binary Search Trees
+          3. AVL Trees, N-ary Tree
+          4. B-tree
+          5. Quadtree and Octree
+          6. Minimum Spanning Trees
+          7. segment tree
+          8. Fenwick Trees
+          9. AA Tree
+          10. Quadtree
+    6. Divide and Conquer Algorithms
+    7. Greedy Algorithms
+    8. Randomized Algorithms
+
+
+
   
 ***
 
