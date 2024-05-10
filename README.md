@@ -1,5 +1,3 @@
-![image](https://github.com/luthentic/DesignPattern-DataStructures-Algorithms/assets/33567830/647deb3b-7f46-4a8a-bbf4-744bf30cb3a5)
-
 
 ## 🚀 Introduction
 
@@ -172,6 +170,29 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 
 
 ## 🏠Space Complexity
+  
+  ### What's Space Complexity?
+
+  Space complexity refers to the total amount of memory that an algorithm or operation requires based on its input size.
+  
+  Unlike time complexity, which focuses on how long an algorithm takes to run, space complexity focuses on memory usage.
+  
+  ### Notations:
+
+  **O(1)** (constant complexity): Takes the same amount of space regardless of input size.
+  
+  **O(log n)** (logarithmic complexity): Takes space proportional to the logarithm of the input size.
+  
+  **O(n)** (linear complexity): Takes space directly proportional to the input size.
+  
+  **O(n log n)** (log-linear/quasilinear complexity): Grows proportionally to the input size and a logarithmic factor.
+  
+  **O(n^2)** (square/polynomial complexity): Space complexity grows proportionally to the square of the input size
+
+  ### Why is it important:
+  
+  
+  ### Example
 
 ## 🏁Design Pattern
  - ### Creational Pattern
