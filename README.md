@@ -12,22 +12,22 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 2. [Space Complexity](#space-complexity)
 3. [Design Pattern](#design-pattern)
    1. [Creational Pattern](#creational-pattern)
-      1. Singleton Pattern
-      2. Factory Pattern
-      3. Builder Pattern
-      4. Prototype Pattern
+      1. [Singleton Pattern](#singleton-pattern)
+      2. [Factory Pattern](#factory-pattern)
+      3. [Builder Pattern](#builder-pattern)
+      4. [Prototype Pattern](prototype-pattern)
    2. [Structural Pattern](#structural-pattern)
-      1. Decorator design pattern
-      2. Adapter design pattern
-      3. Composite design pattern
-      4. Façade design pattern
-      5. Proxy design pattern
+      1. [Decorator design pattern](url)
+      2. [Adapter design pattern](url)
+      3. [Composite design pattern](url)
+      4. [Façade design pattern](url)
+      5. [Proxy design pattern](url)
    4. [Behavioral Pattern](#behavioral-pattern)
-      1. Strategy design pattern
-      2. Observer design pattern
-      3. Mediator design pattern
-      4. Command design pattern
-      5. Template Method design pattern
+      1. [Strategy design pattern](url)
+      2. [Observer design pattern](url)
+      3. [Mediator design pattern](url)
+      4. [Command design pattern](url)
+      5. [Template Method design pattern](url)
       
 4. [Data Structure](#data-structure)
     1. [Arrays](arrays)
@@ -39,34 +39,34 @@ My personal on going study project about Data-Structures, Algorithms, and Design
     7. [Dictionaries](dictionaries)
     8. [Graphs](graphs)
     9. [Hash Tables](hash-tables)
-    10. [Heap](Heap)
+    10. [Heap](eap)
     11. [Priority Queue](priority-queue)
     12. [Trie](trie)
     13. [Skip Lists](skip-lists) 
              
 5. [Algorithm](#algorithm)
     1. [Searching](#searching)
-         1. Binary Search
-         2. Linear Search
-         3. Depth First Search
-         4. Breadth First Search
-         5. Z Algorithm
+         1. [Binary Search](url)
+         2. [Linear Search](url)
+         3. [Depth First Search](url)
+         4. [Breadth First Search](url)
+         5. [Z Algorithm](url)
     2. [Sorting](sorting)
-         1. Insertion Sort
-         2. Heap Sort
-         3. Selection Sort
-         4. Merge Sort
-         5. Quick Sort
-         6. Counting Sort
-         7. Bucket Sort
-         8. Bubble Sort
-         9. Radix Sort
-         10. Shell Sort
-         11. Comb Sort
-         12. Pigeonhole Sort
-         13. Cycle Sort
+         1. [Insertion Sort](url)
+         2. [Heap Sort](url)
+         3. [Selection Sort](url)
+         4. [Merge Sort](url)
+         5. [Quick Sort](url)
+         6. [Counting Sort](url)
+         7. [Bucket Sort](url)
+         8. [Bubble Sort](url)
+         9. [Radix Sort](url)
+         10. [Shell Sort](url)
+         11. [Comb Sort](url)
+         12. [Pigeonhole Sort](url)
+         13. [Cycle Sort](url)
     3. [Graphs](graph)
-         1. Kruskal's Algorithm
+         1. [Kruskal's Algorithm](url)
          2. Dijkstra's Algorithm
          3. Bellman Ford Algorithm
          4. Floyd Warshall Algorithm
@@ -98,11 +98,12 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 ***
 
 ## 🧭Time Complexity:
- - 
+ - https://en.wikipedia.org/wiki/Time_complexity
+ - https://www.youtube.com/watch?v=D6xkbGLQesk&t=10s
+ 
 
-  
 ## 🏠Space Complexity
-  
+- https://en.wikipedia.org/wiki/Space_complexity
 
 
 
