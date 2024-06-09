@@ -93,7 +93,6 @@ My personal on going study project about Data-Structures, Algorithms, and Design
           7. segment tree
           8. Fenwick Trees
           9. AA Tree
-          10. Quadtree
 
 ***
 
