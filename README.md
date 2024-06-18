@@ -115,7 +115,7 @@ They aim to provide flexibility in the instantiation process while promoting cod
      https://javascriptpatterns.vercel.app/patterns/design-patterns/singleton-pattern
 
      ```js
-             let counter = 0;
+        let counter = 0;
         
         // 1. Create an object containing the `getCount`, `increment`, and `decrement` method.
         const counterObject = {
@@ -137,31 +137,31 @@ They aim to provide flexibility in the instantiation process while promoting cod
 
      Not really a pattern: In JavaScript, the factory pattern isn't much more than a function that returns an object without using the new keyword. ES6 arrow functions allow us to create small factory functions that implicitly return an object each time. However, in many cases it may be more memory efficient to create new instances instead of new objects each time.
 
-     ```'js
-          class User {
-      constructor(firstName, lastName, email) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.email = email;
-      }
+     ```js
+     class User {
+        constructor(firstName, lastName, email) {
+          this.firstName = firstName;
+          this.lastName = lastName;
+          this.email = email;
+        }
+      
+        async getPosts() {
+          const posts = await fetch(`https://my.cms.com/posts/user/${this.id}`);
+          return posts;
+        }
+     }
     
-      async getPosts() {
-        const posts = await fetch(`https://my.cms.com/posts/user/${this.id}`);
-        return posts;
-      }
-    }
-    
-    const user1 = new User({
-      firstName: "John",
-      lastName: "Doe",
-      email: "john@doe.com",
-    });
-    
-    const user2 = new User({
-      firstName: "Jane",
-      lastName: "Doe",
-      email: "jane@doe.com",
-    });
+      const user1 = new User({
+        firstName: "John",
+        lastName: "Doe",
+        email: "john@doe.com",
+      });
+      
+      const user2 = new User({
+        firstName: "Jane",
+        lastName: "Doe",
+        email: "jane@doe.com",
+      });
      ```
 
 
