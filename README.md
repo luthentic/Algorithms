@@ -26,8 +26,7 @@ My personal on going study project about Data-Structures, Algorithms, and Design
       1. [Strategy design pattern](url)
       2. [Observer design pattern](url)
       3. [Mediator design pattern](url)
-      4. [Command design pattern](url)
-      5. [Template Method design pattern](url)
+      4. [Template Method design pattern](url)
       
 4. [Data Structure](#data-structure)
     1. [Arrays](arrays)
