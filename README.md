@@ -12,21 +12,21 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 2. [Space Complexity](#space-complexity)
 3. [Design Pattern](#design-pattern)
    1. [Creational Pattern](#creational-pattern)
-      1. [Singleton Pattern](#singleton-pattern)
-      2. [Factory Pattern](#factory-pattern)
-      3. [Builder Pattern](#builder-pattern)
-      4. [Prototype Pattern](prototype-pattern)
+      - Singleton Pattern
+      - Factory Pattern 
+      - Builder Pattern
+      - Prototype Pattern
    2. [Structural Pattern](#structural-pattern)
-      1. [Decorator design pattern](url)
-      2. [Adapter design pattern](url)
-      3. [Composite design pattern](url)
-      4. [Façade design pattern](url)
-      5. [Proxy design pattern](url)
+      - Decorator design pattern
+      - Adapter design pattern
+      - Composite design pattern
+      - Façade design pattern
+      - Proxy design pattern
    4. [Behavioral Pattern](#behavioral-pattern)
-      1. [Strategy design pattern](url)
-      2. [Observer design pattern](url)
-      3. [Mediator design pattern](url)
-      4. [Template Method design pattern](url)
+      - Strategy design pattern
+      - Observer design pattern
+      - Mediator design pattern
+      - Template Method design pattern
       
 4. [Data Structure](#data-structure)
     1. [Arrays](arrays)
@@ -111,9 +111,62 @@ My personal on going study project about Data-Structures, Algorithms, and Design
 They aim to provide flexibility in the instantiation process while promoting code reuse and maintainability.
 
    - Singleton design pattern:
+
+     https://javascriptpatterns.vercel.app/patterns/design-patterns/singleton-pattern
+
+     ```js
+             let counter = 0;
+        
+        // 1. Create an object containing the `getCount`, `increment`, and `decrement` method.
+        const counterObject = {
+          getCount: () => counter,
+          increment: () => ++counter,
+          decrement: () => --counter,
+        };
+        
+        // 2. Freeze the object using the `Object.freeze` method, to ensure the object is not modifiable.
+        const singletonCounter = Object.freeze(counterObject);
+        
+        // 3. Export the object as the `default` value to make it globally accessible.
+        export default singletonCounter;
+      ```
      
+   - Factory design pattern:
      
-   - Factory and Abstract Factory design pattern:
+     https://javascriptpatterns.vercel.app/patterns/design-patterns/factory-pattern
+
+     Not really a pattern: In JavaScript, the factory pattern isn't much more than a function that returns an object without using the new keyword. ES6 arrow functions allow us to create small factory functions that implicitly return an object each time. However, in many cases it may be more memory efficient to create new instances instead of new objects each time.
+
+     ```'js
+          class User {
+      constructor(firstName, lastName, email) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.email = email;
+      }
+    
+      async getPosts() {
+        const posts = await fetch(`https://my.cms.com/posts/user/${this.id}`);
+        return posts;
+      }
+    }
+    
+    const user1 = new User({
+      firstName: "John",
+      lastName: "Doe",
+      email: "john@doe.com",
+    });
+    
+    const user2 = new User({
+      firstName: "Jane",
+      lastName: "Doe",
+      email: "jane@doe.com",
+    });
+     ```
+
+
+      
+     
      
    - Builder design pattern:
      
@@ -121,17 +174,26 @@ They aim to provide flexibility in the instantiation process while promoting cod
 
      
   ### Structural Pattern:
-   - Decorator design pattern
-   - Adapter design pattern
-   - Composite design pattern
-   - Façade design pattern
-   - Proxy design pattern
+   - Decorator design pattern:
+     
+   - Adapter design pattern:
+     
+   - Composite design pattern:
+     
+   - Façade design pattern:
+     
+   - Proxy design pattern:
+     
   ### Behavioral Pattern:
-   - Strategy design pattern
-   - Observer design pattern
-   - Mediator design pattern
-   - Command design pattern
-   - Template Method design pattern
+   - Strategy design pattern:
+     
+   - Observer design pattern:
+     
+   - Mediator design pattern:
+     
+   - Command design pattern:
+     
+   - Template Method design pattern:
 
 
 ## ⭐Data Structure
