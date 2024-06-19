@@ -45,27 +45,27 @@ My personal on going study project about Data-Structures, Algorithms, and Design
              
 5. [Algorithm](#algorithm)
     1. [Searching](#searching)
-         1. [Binary Search](url)
-         2. [Linear Search](url)
-         3. [Depth First Search](url)
-         4. [Breadth First Search](url)
-         5. [Z Algorithm](url)
+         1. Binary Search
+         2. Linear Search
+         3. Depth First Search
+         4. Breadth First Search
+         5. Z Algorithm
     2. [Sorting](sorting)
-         1. [Insertion Sort](url)
-         2. [Heap Sort](url)
-         3. [Selection Sort](url)
-         4. [Merge Sort](url)
-         5. [Quick Sort](url)
-         6. [Counting Sort](url)
-         7. [Bucket Sort](url)
-         8. [Bubble Sort](url)
-         9. [Radix Sort](url)
-         10. [Shell Sort](url)
-         11. [Comb Sort](url)
-         12. [Pigeonhole Sort](url)
-         13. [Cycle Sort](url)
+         1. Insertion Sort
+         2. Heap Sort
+         3. Selection Sort
+         4. Merge Sort
+         5. Quick Sort
+         6. Counting Sort
+         7. Bucket Sort
+         8. Bubble Sort
+         9. Radix Sort
+         10. Shell Sort
+         11. Comb Sort
+         12. Pigeonhole Sort
+         13. Cycle Sort
     3. [Graphs](graph)
-         1. [Kruskal's Algorithm](url)
+         1. Kruskal's Algorithm
          2. Dijkstra's Algorithm
          3. Bellman Ford Algorithm
          4. Floyd Warshall Algorithm
