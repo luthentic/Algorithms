@@ -196,7 +196,10 @@ They aim to provide flexibility in the instantiation process while promoting cod
    - Template Method design pattern:
 
 
-## ⭐Data Structure
+## ⭐Data Structure:
+
+### Array:
+
 
 ## 🤖Algorithm
 
