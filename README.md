@@ -172,6 +172,8 @@ They aim to provide flexibility in the instantiation process while promoting cod
      
    - Prototype Pattern:
 
+     https://javascriptpatterns.vercel.app/patterns/design-patterns/prototype-pattern
+
      
   ### Structural Pattern:
    - Decorator design pattern:
