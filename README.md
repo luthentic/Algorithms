@@ -201,7 +201,7 @@ They aim to provide flexibility in the instantiation process while promoting cod
 ## ⭐Data Structure:
 
 ## Arrays:
-
+- https://medium.com/@ibrahimlanre1890/introduction-to-arrays-and-their-algorithms-f6d88c86d14
 
 ## 🤖Algorithm
 
